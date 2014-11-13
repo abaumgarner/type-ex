@@ -1,5 +1,30 @@
 /* Your Website Styles */
+/* http://www.colourlovers.com/palette/76805/Monster_Truck_Rally */
 
+body {
+	font-family: 'Patua One', cursive;
+	font-weight: 400;
+	background: url("../img/squared_metal.png");
+}
+
+h1 {
+	color: #885B5B;
+	font-size: 3em;
+}
+
+h3 {
+	color: #350A0A;
+	text-transform: uppercase;
+}
+
+p {
+	max-width: 45em;
+	color: #030303;
+}
+
+img {
+	width: 75%;
+}
 
 /* Show Grid */
 .showgrid {
